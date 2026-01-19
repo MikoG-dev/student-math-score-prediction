@@ -4,6 +4,14 @@ This project explores how various student background factors impact their math s
 
 ---
 
+## 📌 Key Visualization
+
+<img src="assets/actual_vs_predicted.png" alt="Actual vs Predicted Math Scores" width="600"/>
+
+> Scatterplot of actual vs predicted scores to visualize model accuracy.
+
+---
+
 ## 📂 Dataset
 
 **Source:** [Kaggle - Student Performance Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)  
@@ -55,13 +63,6 @@ The goal is to **predict the math score** of students based on features like:
 
 The model was able to explain ~86% of the variance in math scores. On average, predictions are off by about 5.3 points, which is a strong performance for this dataset.
 
----
-
-## 📌 Key Visualization
-
-<img src="assets/actual_vs_predicted.png" alt="Actual vs Predicted Math Scores" width="600"/>
-
-> Scatterplot of actual vs predicted scores to visualize model accuracy.
 
 ---
 
